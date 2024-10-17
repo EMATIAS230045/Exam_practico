@@ -35,3 +35,7 @@ console.log(`Creo que es ${miColorFavorito}, le atine?`)  // La manera de mezcla
 console.log("Analizando los datos puedo deducir que: ")
 console.log("miColorFavorito es  del tipo:", typeof(miColorFavorito))
 console.log("miFechaNacimiento es  del tipo:", typeof(miFechaNacimiento))
+
+
+
+//fin de prac
