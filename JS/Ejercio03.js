@@ -64,3 +64,6 @@ usuario
 }
 //Para mostrar objetos como tablas
 console.table(NuevoObjeto)
+
+
+//
