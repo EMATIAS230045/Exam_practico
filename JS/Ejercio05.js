@@ -257,12 +257,8 @@ let j = 0;
 while (j<dias.length){
     switch(j){
         case 0:
-            findesemana= true
-            mensaje= "Monmingo.. zzzzzz";
-            break;
-            case 1:
-            findesemana= false
-            mensaje= "san jueves a chambiear";
+          findesemana= false
+            mensaje= "san lunes a chambiear";
             break;
             case 2:
             findesemana= false
@@ -279,12 +275,7 @@ while (j<dias.length){
             case 5:
                 findesemana= false
                 mensaje= "ultimo diaaaaa ";
-                break;
-            case 6:
-            findesemana= true
-            mensaje= "sabado de pelis";
-            break;
- 
+                break; 
         }
         console.log(mensaje)
 j++
@@ -405,4 +396,5 @@ let seriesConTresTemporadas = seriesTrending2
 console.log("Series con 3 temporadas que están en la lista deseada:");
 console.log(seriesConTresTemporadas);
 
+//
 //
