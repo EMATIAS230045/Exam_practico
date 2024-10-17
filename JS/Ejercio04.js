@@ -240,7 +240,7 @@ console.log("Filtrando los primeros 5 elementos");
 let nuevoEstudiantes = estudiantes.filter((estudiante,index) => index<5);
 console.table(nuevoEstudiantes);
 console.table(filtraPrimeros5(estudiantes));
-
+//
 
 // filtrar a los estudiantes que su nombre tenga mas de 15 carácteres
 let nuevoEstudiantesNombre = estudiantes.filter((estudiante) => estudiante.length>15);
