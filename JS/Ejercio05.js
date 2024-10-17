@@ -404,3 +404,5 @@ let seriesConTresTemporadas = seriesTrending2
 // Mostrar los resultados
 console.log("Series con 3 temporadas que están en la lista deseada:");
 console.log(seriesConTresTemporadas);
+
+//
